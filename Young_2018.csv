@@ -1,0 +1,91 @@
+id,author.year,year,document.type,country,pretesting,bias.rating,behaviour.measure,outcome.category,outcome.category2,n.positive,n.total
+229,Common et al. (2013),2013,journal,other,no,low/unclear,self-reported,Knowledge,A food allergy reaction can cause death,37,40
+291,Dupuis et al. (2016),2016,journal,US,no,low/unclear,self-reported,Knowledge,A food allergy reaction can cause death,171,176
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Knowledge,A food allergy reaction can cause death,66,75
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Knowledge,A food allergy reaction can cause death,219,229
+597,Lee and Xu (2015),2015,journal,US,yes,high,self-reported,Knowledge,A food allergy reaction can cause death,99,110
+832,Radke et al. (2016),2016,journal,US,no,high,self-reported,Knowledge,A food allergy reaction can cause death,615,644
+923,Shafie et al. (2015),2015,journal,other,yes,high,self-reported,Knowledge,A food allergy reaction can cause death,60,117
+951,Sogut et al. (2015),2015,journal,other,no,low/unclear,self-reported,Knowledge,A food allergy reaction can cause death,228,351
+1080,Wen and Kwon (2017),2017,journal,US,yes,low/unclear,self-reported,Knowledge,A food allergy reaction can cause death,274,316
+69,Abdelmassih et al. (2016),2016,journal,US,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,53,73
+157,Borchgrevink et al. (2009),2009,journal,US,no,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,15,57
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,37,75
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,97,229
+597,Lee and Xu (2015),2015,journal,US,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,69,110
+606,Leitch et al. (2005),2005,journal,US,no,high,observed,Behaviour/practice,Allergens are identified on the menu or other documentation,2,73
+775,Panzer et al. (2012),2012,journal,US,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,5,6
+832,Radke et al. (2016),2016,journal,US,no,low/unclear,observed,Behaviour/practice,Allergens are identified on the menu or other documentation,64,277
+923,Shafie et al. (2015),2015,journal,other,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,31,117
+1080,Wen and Kwon (2017),2017,journal,US,yes,low/unclear,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,116,316
+1146,Zottarelli et al. (2012),2012,other,US,yes,high,self-reported,Behaviour/practice,Allergens are identified on the menu or other documentation,43,220
+1151,CIEH (2007),2007,other,other,yes,high,observed,Behaviour/practice,Allergens are identified on the menu or other documentation,6,86
+77,Ahuja and Sicherer (2007),2007,journal,US,yes,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,76,100
+79,Ajala et al. (2010),2010,journal,other,no,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,64,74
+116,Bailey et al. (2011),2011,journal,other,yes,low/unclear,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,69,90
+229,Common et al. (2013),2013,journal,other,no,low/unclear,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,31,40
+291,Dupuis et al. (2016),2016,journal,US,no,low/unclear,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,159,180
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,70,75
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,205,229
+597,Lee and Xu (2015),2015,journal,US,yes,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,90,110
+612,Lessa et al. (2016),2016,journal,other,no,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,66,80
+832,Radke et al. (2016),2016,journal,US,no,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,506,644
+923,Shafie et al. (2015),2015,journal,other,yes,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,58,117
+951,Sogut et al. (2015),2015,journal,other,no,low/unclear,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,162,351
+1086,Wham et al. (2014),2014,journal,other,yes,low/unclear,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,107,124
+1149,Timmermans (2011),2011,other,other,no,high,self-reported,Knowledge,Customers with food allergies cannot safely consume a small amount of that food,62,115
+77,Ahuja and Sicherer (2007),2007,journal,US,yes,high,self-reported,Knowledge,High heat cannot destroy food allergens,65,100
+79,Ajala et al. (2010),2010,journal,other,no,high,self-reported,Knowledge,High heat cannot destroy food allergens,53,74
+116,Bailey et al. (2011),2011,journal,other,yes,low/unclear,self-reported,Knowledge,High heat cannot destroy food allergens,76,90
+229,Common et al. (2013),2013,journal,other,no,low/unclear,self-reported,Knowledge,High heat cannot destroy food allergens,30,40
+291,Dupuis et al. (2016),2016,journal,US,no,low/unclear,self-reported,Knowledge,High heat cannot destroy food allergens,167,179
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Knowledge,High heat cannot destroy food allergens,66,75
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Knowledge,High heat cannot destroy food allergens,160,229
+597,Lee and Xu (2015),2015,journal,US,yes,high,self-reported,Knowledge,High heat cannot destroy food allergens,75,110
+612,Lessa et al. (2016),2016,journal,other,no,high,self-reported,Knowledge,High heat cannot destroy food allergens,72,80
+1080,Wen and Kwon (2017),2017,journal,US,yes,low/unclear,self-reported,Knowledge,High heat cannot destroy food allergens,185,316
+1086,Wham et al. (2014),2014,journal,other,yes,low/unclear,self-reported,Knowledge,High heat cannot destroy food allergens,109,124
+1149,Timmermans (2011),2011,other,other,no,high,self-reported,Knowledge,High heat cannot destroy food allergens,52,115
+67,Abbot et al. (2007),2007,journal,US,no,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,9,34
+69,Abdelmassih et al. (2016),2016,journal,US,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,55,76
+77,Ahuja and Sicherer (2007),2007,journal,US,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,62,100
+79,Ajala et al. (2010),2010,journal,other,no,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,1,74
+116,Bailey et al. (2011),2011,journal,other,yes,low/unclear,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,61,90
+370,French and Pobocik (2013),2013,other,US,no,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,19,20
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,57,75
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,175,229
+597,Lee and Xu (2015),2015,journal,US,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,85,110
+612,Lessa et al. (2016),2016,journal,other,no,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,41,80
+653,Mandabach et al. (2005),2005,journal,US,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,23,28
+832,Radke et al. (2016),2016,journal,US,no,low/unclear,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,189,267
+835,Rajagopal and Strohbehn (2011),2011,journal,US,yes,low/unclear,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,41,95
+923,Shafie et al. (2015),2015,journal,other,yes,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,38,117
+1086,Wham et al. (2014),2014,journal,other,yes,low/unclear,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,7,124
+1148,Enriquez et al. (2007),2007,other,US,no,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,47,85
+1149,Timmermans (2011),2011,other,other,no,high,self-reported,Behaviour/practice,Policies or plans are in place to produce allergen-free meals,21,115
+77,Ahuja and Sicherer (2007),2007,journal,US,yes,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,75,100
+79,Ajala et al. (2010),2010,journal,other,no,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,59,74
+116,Bailey et al. (2011),2011,journal,other,yes,low/unclear,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,71,90
+229,Common et al. (2013),2013,journal,other,no,low/unclear,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,35,40
+291,Dupuis et al. (2016),2016,journal,US,no,low/unclear,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,158,177
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,64,75
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,164,229
+597,Lee and Xu (2015),2015,journal,US,yes,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,67,110
+612,Lessa et al. (2016),2016,journal,other,no,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,60,80
+832,Radke et al. (2016),2016,journal,US,no,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,595,644
+951,Sogut et al. (2015),2015,journal,other,no,low/unclear,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,228,351
+1080,Wen and Kwon (2017),2017,journal,US,yes,low/unclear,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,162,316
+1086,Wham et al. (2014),2014,journal,other,yes,low/unclear,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,97,124
+1149,Timmermans (2011),2011,other,other,no,high,self-reported,Knowledge,Removing an allergen from a prepared meal would not make the food safe to eat,91,115
+77,Ahuja and Sicherer (2007),2007,journal,US,yes,high,self-reported,Training status/policies,Respondent has previously received food allergy training,42,100
+116,Bailey et al. (2011),2011,journal,other,yes,low/unclear,self-reported,Training status/policies,Respondent has previously received food allergy training,30,90
+213,Choi and Rajagopal (2013),2013,journal,US,yes,high,self-reported,Training status/policies,Respondent has previously received food allergy training,59,193
+229,Common et al. (2013),2013,journal,other,no,low/unclear,self-reported,Training status/policies,Respondent has previously received food allergy training,6,40
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Training status/policies,Respondent has previously received food allergy training,37,75
+595,Lee and Barker (2017),2017,journal,US,yes,high,self-reported,Training status/policies,Respondent has previously received food allergy training,87,110
+596,Lee and Sozen (2016),2016,journal,US,yes,high,self-reported,Training status/policies,Respondent has previously received food allergy training,84,229
+832,Radke et al. (2016),2016,journal,US,no,high,self-reported,Training status/policies,Respondent has previously received food allergy training,261,639
+951,Sogut et al. (2015),2015,journal,other,no,low/unclear,self-reported,Training status/policies,Respondent has previously received food allergy training,60,351
+1080,Wen and Kwon (2017),2017,journal,US,yes,low/unclear,self-reported,Training status/policies,Respondent has previously received food allergy training,144,316
+1086,Wham et al. (2014),2014,journal,other,yes,low/unclear,self-reported,Training status/policies,Respondent has previously received food allergy training,31,124
+1149,Timmermans (2011),2011,other,other,no,high,self-reported,Training status/policies,Respondent has previously received food allergy training,30,115

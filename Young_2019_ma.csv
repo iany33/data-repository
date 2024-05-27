@@ -1,0 +1,215 @@
+refid,author_year,year,study_design,intervention_type,outcome,control,doc_type,highincome_country,premise_institutions,formative_research,theory_informed,pretesting_conducted,followup_time,rct_bias,g,g_se
+441,Bratton-Jeffery (1998),1998,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,Yes,Yes,Shorter/not specified,Low risk,-0.122970397,0.14375778
+557,Chaifetz (2015),2015,RCT,Multi-faceted intervention,Inspection,No training,Thesis,Yes,No,Yes,Yes,No,Longer than 1 month,High risk/some concerns,0.049,0.204939015
+2981,Craggs-Dino (2002),2002,RCT,Training course or session,Attitudes,No training,Thesis,Yes,Yes,No,No,Yes,Shorter/not specified,High risk/some concerns,-0.7374,0.511663952
+2981,Craggs-Dino (2002),2002,RCT,Training course or session,Behaviour,No training,Thesis,Yes,Yes,No,No,Yes,Shorter/not specified,High risk/some concerns,0.078718517,0.497430723
+2981,Craggs-Dino (2002),2002,RCT,Training course or session,Knowledge,No training,Thesis,Yes,Yes,No,No,Yes,Shorter/not specified,Low risk,0.382328029,0.501154161
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.003271991,0.247650687
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.359176708,0.490554085
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.797728245,0.456730158
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.526211728,0.260885148
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.659791909,0.906927958
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.220537765,0.243289209
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.04694996,0.406127885
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.95291127,0.861158125
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,1.061809548,0.840793428
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.087443536,0.387131654
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.084537476,0.23404247
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.691267532,0.250079406
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.826682954,0.249577573
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.001699012,0.218569223
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.280433081,0.515626737
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-1.30069177,0.829359172
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,-0.147000086,0.32831158
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.343336508,0.223073701
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.388575391,0.239830863
+730,DeFee (1999),1999,RCT,Training course or session,Knowledge,Standard,Thesis,Yes,Yes,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.162287067,0.283336313
+733,DeLegge (2009),2009,RCT,Training course or session,Inspection,No training,Thesis,Yes,No,Yes,No,Yes,Longer than 1 month,High risk/some concerns,-0.35841838,0.173551319
+733,DeLegge (2009),2009,RCT,Training course or session,Inspection,No training,Thesis,Yes,No,Yes,No,Yes,Longer than 1 month,High risk/some concerns,0.012233894,0.159235841
+801,Dworkin et al. (2012),2012,RCT,Messaging materials,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Longer than 1 month,High risk/some concerns,0.218,0.296647939
+931,Fraser (1995),1995,RCT,Messaging materials,Attitudes,No training,Thesis,Yes,Yes,Yes,Yes,Yes,Shorter/not specified,High risk/some concerns,0.35,0.141421356
+2990,Kirshner (1990),1990,RCT,Training course or session,Inspection,No training,Thesis,Yes,No,Yes,No,Yes,Longer than 1 month,Low risk,0.016,0.114017543
+1580,Lillquist et al. (2005),2005,RCT,Training course or session,Knowledge,Standard,Journal article,Yes,No,Yes,No,No,Shorter/not specified,High risk/some concerns,1.78725126,0.356661717
+1580,Lillquist et al. (2005),2005,RCT,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,No,Shorter/not specified,High risk/some concerns,2.181323498,0.322844509
+1676,Mancini et al. (2012),2012,RCT,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.405,0.618869938
+1676,Mancini et al. (2012),2012,RCT,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.989,0.694982014
+2984,Maung et al. (2017),2017,RCT,Multi-faceted intervention,Attitudes,No training,Journal article,No,No,No,No,Yes,Shorter/not specified,High risk/some concerns,0.4039,0.476791359
+2984,Maung et al. (2017),2017,RCT,Multi-faceted intervention,Behaviour,No training,Journal article,No,No,No,No,Yes,Shorter/not specified,High risk/some concerns,0.100833457,0.471859545
+2984,Maung et al. (2017),2017,RCT,Multi-faceted intervention,Inspection,No training,Journal article,No,No,No,No,Yes,Shorter/not specified,High risk/some concerns,-0.100172528,0.471855632
+1681,Manes et al. (2014),2014,RCT,Messaging materials,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.453,0.173205081
+1681,Manes et al. (2014),2014,RCT,Messaging materials,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,High risk/some concerns,0.158,0.18973666
+2984,Maung et al. (2017),2017,RCT,Multi-faceted intervention,Knowledge,No training,Journal article,No,No,No,No,Yes,Shorter/not specified,High risk/some concerns,0.352963667,0.47521745
+1955,Nik Husain et al. (2016),2016,RCT,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,0.356,0.269211813
+1955,Nik Husain et al. (2016),2016,RCT,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,0.003,0.266610671
+1955,Nik Husain et al. (2016),2016,RCT,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,0.367,0.269211813
+1955,Nik Husain et al. (2016),2016,RCT,Multi-faceted intervention,Knowledge,No training,Journal article,No,Yes,Yes,Yes,Yes,Longer than 1 month,Low risk,0.118,0.266610671
+1955,Nik Husain et al. (2016),2016,RCT,Multi-faceted intervention,Knowledge,No training,Journal article,No,Yes,Yes,Yes,Yes,Longer than 1 month,Low risk,0.706,0.274340117
+2241,Richard et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,2.5732,0.604594199
+2241,Richard et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,2.7086,0.619207022
+2241,Richard et al. (2013),2013,RCT,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,4.713925264,0.869210725
+2241,Richard et al. (2013),2013,RCT,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,Yes,Yes,Longer than 1 month,High risk/some concerns,3.58893172,0.72250313
+2278,Romano and D'Argenio (1998),1998,RCT,Messaging materials,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,Low risk,0.644703017,0.31354634
+2278,Romano and D'Argenio (1998),1998,RCT,Messaging materials,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,Low risk,0.639942137,0.324220718
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,0.203367121,0.299575115
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.352961338,0.301114522
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.174548562,0.299373076
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.607324959,0.30558792
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.631834374,0.306139564
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.743829196,0.308922791
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,0.20868035,0.299615713
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.125823504,0.299101355
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,0.007180072,0.298808111
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.25018366,0.299968631
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,-0.182531501,0.29942597
+2295,Rowell et al. (2013),2013,RCT,Training course or session,Inspection,No training,Journal article,Yes,No,No,No,No,Longer than 1 month,High risk/some concerns,0.075534755,0.298913213
+2996,Soneff et al. (1994),1994,RCT,Multi-faceted intervention,Inspection,No training,Journal article,Yes,Yes,Yes,No,Yes,Longer than 1 month,High risk/some concerns,0.231504817,0.395577293
+2772,Walker et al. (2006),2006,RCT,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,High risk/some concerns,0.19726414,0.475479674
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,2.042702399,0.834731633
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,0.703099724,0.392322423
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,1.441702886,0.642416127
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,0.744253606,0.837730117
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Inspection,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,1.232911404,0.81695706
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Knowledge,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,1.102645314,0.401481034
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Knowledge,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,1.77285605,0.809435774
+122,Abernathy and Hart (2004),2004,Non-randomized study,Multi-faceted intervention,Knowledge,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,1.155372773,0.819097119
+195,Al-Mohaithef (2014),2014,Non-randomized study,Training course or session,Attitudes,No training,Thesis,Yes,Yes,Yes,No,Yes,Longer than 1 month,,0.5954,0.481949167
+195,Al-Mohaithef (2014),2014,Non-randomized study,Training course or session,Behaviour,No training,Thesis,Yes,Yes,Yes,No,Yes,Longer than 1 month,,0.932918562,0.49014703
+195,Al-Mohaithef (2014),2014,Non-randomized study,Training course or session,Knowledge,No training,Thesis,Yes,Yes,Yes,No,Yes,Longer than 1 month,,1.359400673,0.505293227
+438,Brannon et al. (2009),2009,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,No,No,No,No,Shorter/not specified,,0.6803,0.147309199
+1231,Chang et al. (2003),2003,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,Yes,Yes,No,Yes,Shorter/not specified,,1.978701438,0.461624484
+1231,Chang et al. (2003),2003,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,Yes,No,Yes,Shorter/not specified,,2.456037138,0.500897413
+3006,Cook and Casey (1979),1979,Non-randomized study,Training course or session,Inspection,No training,Journal article,Yes,No,Yes,No,Yes,Longer than 1 month,,0.255000693,0.281358434
+655,Cotterchio et al. (1998),1998,Non-randomized study,Training course or session,Inspection,No training,Journal article,Yes,No,Yes,No,Yes,Longer than 1 month,,0.091976379,0.20871875
+684,Da Cunha et al. (2014),2014,Non-randomized study,Training course or session,Attitudes,No training,Journal article,No,Yes,Yes,No,Yes,Longer than 1 month,,0.1235,0.159059737
+684,Da Cunha et al. (2014),2014,Non-randomized study,Training course or session,Behaviour,No training,Journal article,No,Yes,Yes,No,Yes,Longer than 1 month,,0.162648842,0.159102671
+684,Da Cunha et al. (2014),2014,Non-randomized study,Training course or session,Behaviour,No training,Journal article,No,Yes,Yes,No,Yes,Longer than 1 month,,-0.077028747,0.158926369
+684,Da Cunha et al. (2014),2014,Non-randomized study,Training course or session,Knowledge,No training,Journal article,No,Yes,Yes,No,Yes,Longer than 1 month,,0.616229975,0.162107738
+745,DeSario (2013),2013,Non-randomized study,Training course or session,Inspection,No training,Thesis,Yes,Yes,Yes,Yes,Yes,Longer than 1 month,,0.367,0.161245155
+745,DeSario (2013),2013,Non-randomized study,Training course or session,Inspection,No training,Thesis,Yes,Yes,Yes,Yes,Yes,Longer than 1 month,,0.378,0.357770876
+745,DeSario (2013),2013,Non-randomized study,Training course or session,Inspection,No training,Thesis,Yes,Yes,Yes,Yes,Yes,Longer than 1 month,,0.687,0.264575131
+745,DeSario (2013),2013,Non-randomized study,Training course or session,Inspection,No training,Thesis,Yes,Yes,Yes,Yes,Yes,Longer than 1 month,,0.814,0.170293864
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.646496777,0.206296799
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,3.207038907,0.346341594
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,2.123064078,0.238935018
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.628203045,0.17206202
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,-0.263859048,0.157606047
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.671502125,0.156766326
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.626504033,0.194262265
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.490879734,0.218027764
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.071445464,0.201828315
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.016697505,0.16888619
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.99154792,0.214068387
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.201575285,0.172162685
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.171887382,0.302136704
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.521505851,0.159958591
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.513110484,0.162723116
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.79631639,0.179905582
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.994392697,0.216850184
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.644266891,0.169638207
+815,Ehiri et al. (1997),1997,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.779646992,0.158771645
+887,Farzianpour et al. (2012),2012,Non-randomized study,Training course or session,Knowledge,No training,Journal article,No,No,No,No,No,Shorter/not specified,,0.669480765,0.10605594
+2977,Howes et al. (1996),1996,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,9.322484703,0.829666918
+2983,Ituma et al. (2017),2017,Non-randomized study,Training course or session,Behaviour,No training,Journal article,No,No,No,No,Yes,Longer than 1 month,,1.119556781,0.61279525
+2983,Ituma et al. (2017),2017,Non-randomized study,Training course or session,Knowledge,No training,Journal article,No,No,No,No,Yes,Longer than 1 month,,1.877678758,1.22930817
+3013,Kim and Lee (2014),2014,Non-randomized study,Multi-faceted intervention,Knowledge,No training,Journal article,Yes,Yes,Yes,No,Yes,Longer than 1 month,,0.759594045,0.222707899
+1416,Kirby and Gardiner (1997),1997,Non-randomized study,Training course or session,Inspection,No training,Journal article,Yes,Yes,No,No,No,Shorter/not specified,,2.130716735,0.475043047
+1668,Makari (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,No,Shorter/not specified,,0.071,0.09486833
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.4785,0.18547237
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,-0.3885,0.159373775
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.3895,0.372827038
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.1306,0.218632111
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.5476,0.124096736
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.3953,0.265706605
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.0017,0.329545141
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.199,0.190262976
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.2787,0.183030052
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Attitudes,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.1984,0.13453624
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,-0.056876277,0.152011547
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.389454546,0.3727703
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,-0.227517166,0.313754579
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.310905934,0.112446828
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.106569847,0.140211031
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.250017428,0.096767859
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.025514749,0.09340035
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.281202572,0.107263886
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.681561917,0.101850564
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.249993809,0.150543686
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.395340675,0.093718037
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.159018215,0.121065089
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.209888727,0.093848705
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.212205179,0.105924085
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.163673284,0.100811423
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.0017852,0.180816192
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,-0.227517166,0.313754579
+1761,McIntyre et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,Yes,No,No,No,Longer than 1 month,,0.669109378,0.15725945
+1760,McIntyre et al. (2014),2014,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,No,Longer than 1 month,,0.73,0.333166625
+1900,Nabali et al. (1986),1986,Non-randomized study,Training course or session,Inspection,No training,Journal article,Yes,No,Yes,No,No,Shorter/not specified,,0.755,0.298328678
+1972,Nummer et al. (2010),2010,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.428996865,0.109654768
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,-0.01011641,0.342247614
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,0.324063773,0.345039694
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,0.802341902,0.489440729
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,-0.441813346,0.350045464
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,1.267989601,0.840673843
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,1.267989601,0.840673843
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,1.886096156,0.825538669
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,0.199465306,0.36940965
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,0.127094354,0.460520514
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,1.267989601,0.840673843
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,-0.455771785,0.393313788
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Behaviour,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,-1.045937066,0.480110084
+2986,Nyamari (2013),2013,Non-randomized study,Training course or session,Knowledge,No training,Thesis,No,Yes,Yes,No,Yes,Longer than 1 month,,1.483,0.171214152
+2066,Park et al. (2010),2010,Non-randomized study,Training course or session,Behaviour,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,0.057305983,0.36844853
+2066,Park et al. (2010),2010,Non-randomized study,Training course or session,Knowledge,No training,Journal article,Yes,No,Yes,No,Yes,Shorter/not specified,,1.272,0.295719462
+2071,Parwanda et al. (2015),2015,Non-randomized study,Training course or session,Behaviour,No training,Journal article,No,Yes,No,No,No,Shorter/not specified,,5.698032698,0.771434651
+2071,Parwanda et al. (2015),2015,Non-randomized study,Training course or session,Knowledge,No training,Journal article,No,Yes,No,No,No,Shorter/not specified,,2.650747481,0.470082318
+2987,Rajagopal and Strohbehn (2013),2013,Non-randomized study,Multi-faceted intervention,Behaviour,No training,Journal article,Yes,Yes,Yes,No,Yes,Shorter/not specified,,1.059428557,0.171874183
+2404,Serafim et al. (2015),2015,Non-randomized study,Training course or session,Inspection,No training,Journal article,No,No,No,No,No,Longer than 1 month,,1.286,0.350713558
+2433,Sheth and Sukul (2007),2007,Non-randomized study,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,No,No,No,Longer than 1 month,,0.518880002,0.537980739
+2433,Sheth and Sukul (2007),2007,Non-randomized study,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,No,No,No,Longer than 1 month,,0.854798606,0.552787322
+2433,Sheth and Sukul (2007),2007,Non-randomized study,Multi-faceted intervention,Knowledge,No training,Journal article,No,Yes,No,No,No,Longer than 1 month,,0.55939364,0.539399892
+2434,Sheth et al. (2007),2007,Non-randomized study,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,No,No,No,Longer than 1 month,,0.74,0.512298741
+2434,Sheth et al. (2007),2007,Non-randomized study,Multi-faceted intervention,Behaviour,No training,Journal article,No,Yes,No,No,No,Longer than 1 month,,4.169,0.903520891
+2434,Sheth et al. (2007),2007,Non-randomized study,Multi-faceted intervention,Knowledge,No training,Journal article,No,Yes,No,No,No,Longer than 1 month,,4.87,1.014642794
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.723989721,0.875250479
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.975289481,0.854877093
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,-0.764304139,0.450158158
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.382152069,0.437934386
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.873371187,0.484218557
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.549100498,0.917511538
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.6056967,0.662614867
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,-0.145932654,1.117324517
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,-0.05383091,1.116055517
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,1.101860505,0.852521066
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,1.132497769,0.853071539
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.635505521,0.661943865
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,-1.186328679,0.852221225
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,-0.216695736,0.351104125
+2979,Strohbehn et al. (2013),2013,Non-randomized study,Training course or session,Knowledge,Standard,Journal article,Yes,Yes,Yes,No,No,Shorter/not specified,,0.202737297,0.370632086
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.005926746,0.425593922
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.04349651,0.34843294
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.587005795,0.325292983
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.79892809,0.36096823
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.773269034,0.431007868
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.074320556,0.424484818
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.530908914,0.243863361
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.693176087,0.57434797
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.323141624,0.421948644
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.651744225,0.266404668
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.498729192,0.257221714
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.286662525,0.271135722
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.933687079,0.426987029
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.154538573,0.386907072
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.29324028,0.251074299
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.669711742,0.421789439
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.778192251,0.829869661
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,-0.090045823,0.491875821
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,-0.497777058,0.465706024
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,-0.090045823,0.491875821
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,-0.201038285,0.420080621
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.54943603,0.8009211
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.592797904,0.800228199
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.370000838,0.577377508
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.781286495,0.573996024
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,1.53931403,0.575424528
+2900,Yeung (2014),2014,Non-randomized study,Training course or session,Knowledge,Standard,Thesis,Yes,No,Yes,No,Yes,Shorter/not specified,,0.654196426,0.364269316
+2917,York et al. (2009),2009,Non-randomized study,Multi-faceted intervention,Behaviour,No training,Journal article,Yes,No,Yes,Yes,Yes,Shorter/not specified,,0.512415386,0.157500297
