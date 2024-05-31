@@ -1,0 +1,60 @@
+author_year,treat_n,treat_mean,treat_SD,,control_n,control_mean,control_SD,outcome,intervention_type,comparison_type,participant_type
+Ghanbari et al. 2015,25,10.6,9.8,,25,21.85,8.36,Depression,Therapy,Before/ after gardening,Patients
+Gonzalez et al. 2011,46,18.8,7.8,,46,25.4,7.9,Depression,Therapy,Before/ after gardening,Patients
+Hayashi et al. 2008,11,10.9,3.35,,11,12.4,4.02,Depression,Non-therapy,Before/ after gardening,Non-patients
+Kam and Siu 2010,10,-9.2,9.15,,12,-1.17,8.33,Depression,Therapy,Gardeners/ non-gardeners,Patients
+Kotozaki 2014,22,4.41,4.34,,22,7.59,4.62,Depression,Therapy,Before/ after gardening,Non-patients
+Wichrowski et al. 2005,59,2.71,5.66,,59,5.8,6.89,Depression,Therapy,Before/ after gardening,Patients
+Wilson and Christensen 2011,172,5.49,5.43,,31,7.97,6.29,Depression,Non-therapy,Gardeners/ non-gardeners,Patients
+Wood et al. (in press),136,38.1,1.9,,133,39.1,3,Depression,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Gonzalez et al. 2011,18,50.2,7.5,,18,48.8,6.8,Existential issues,Therapy,Before/ after gardening,Patients
+Gonzalez et al. 2011,28,44.6,7.5,,28,43.6,6.6,Existential issues,Therapy,Before/ after gardening,Patients
+Hayashi et al. 2008,11,11.8,4.02,,11,11.6,3.86,Fatigue,Non-therapy,Before/ after gardening,Non-patients
+Wichrowski et al. 2005,59,6,6.14,,59,9.47,5.79,Fatigue,Therapy,Before/ after gardening,Patients
+Wood et al. (in press),136,38.8,5.1,,133,41.1,6.2,Fatigue,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Kotozaki 2014,22,2.14,3.52,,22,4.82,4.6,General health,Therapy,Before/ after gardening,Non-patients
+Sommerfeld et al. 2010,156,4.09,0.84,,103,3.77,0.99,General health,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,3.32,0.79,,63,3.24,0.78,General health,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Wood et al. (in press),136,9,3.7,,133,11.1,4.9,General health,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,0.61,0.91,,63,0.92,1.34,GP consults,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,2.63,2.32,,63,3.19,2.35,Health complaints,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Wichrowski et al. 2005,59,74.1,13.6,,59,79.2,14.7,Heart rate,Therapy,Before/ after gardening,Patients
+Min et al. 2014,21,3.61,0.33,,21,3.45,0.34,Hope,Therapy,Before/ after gardening,Non-patients
+Sommerfeld et al. 2010,158,36.06,4.7,,103,34.4,5.57,Life satisfaction,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,2.26,0.43,,63,2.12,0.48,Life satisfaction,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Waliczek et al. 2005,220,45.88,6.77,,223,43.69,7.65,Life satisfaction,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,0.45,0.72,,63,0.65,0.85,Loneliness,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Hayashi et al. 2008,11,15.4,10.7,,11,35.8,11.9,Mood,Non-therapy,Before/ after gardening,Non-patients
+Rodiek 2002,6,1.67,2.73,,10,0.4,3.37,Mood,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Rodiek 2002,6,0,0.89,,10,-0.3,4.14,Mood,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg and Custers 2011,14,1.22,0.41,,16,1.35,0.42,Mood,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg and Custers 2011,14,3.7,0.48,,16,3.21,0.7,Mood,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Wichrowski et al. 2005,59,1.6,24.8,,59,19.3,24.5,Mood,Therapy,Before/ after gardening,Patients
+Wood et al. (in press),136,143.7,16.9,,133,152.4,19.7,Mood,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Sommerfeld et al. 2010,158,2.34,0.56,,102,2.05,0.59,Physical activity,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,5.8,1.53,,63,4.9,2.15,Physical activity,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg et al. 2010,121,1.26,0.32,,63,1.27,0.38,Physical constraints,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Gigliotti and Jarrott 2005 ,48,2.43,0.74,,48,1.9,0.65,Positive affect,Therapy,Gardeners/ non-gardeners,Patients
+Gigliotti et al. 2004,13,2.43,0.55,,13,2.06,0.49,Positive affect,Therapy,Gardeners/ non-gardeners,Patients
+Gonzalez et al. 2011,46,2.51,0.79,,46,2.25,0.82,Positive affect,Therapy,Before/ after gardening,Patients
+Min et al. 2014,21,3.56,0.61,,21,3.07,0.71,Psychological wellbeing,Therapy,Before/ after gardening,Non-patients
+Kam and Siu 2010,10,0.6,14.21,,12,1.5,6.07,Quality of life,Therapy,Gardeners/ non-gardeners,Patients
+Gonzalez et al. 2010,28,7.3,1.6,,28,4.5,2.1,Restorativeness (being away),Therapy,Before/ after gardening,Patients
+Gonzalez et al. 2010,28,7.1,1.9,,28,3.4,2.3,Restorativeness (fascination),Therapy,Before/ after gardening,Patients
+Gonzalez et al. 2010,28,11.8,3.3,,28,13.4,3.2,Rumination,Therapy,Before/ after gardening,Patients
+Rodiek 2002,6,0.59,0.46,,8,0.22,0.22,Salivary cortisol,Non-therapy,Gardeners/ non-gardeners,Non-patients
+van den Berg and Custers 2011,14,5.24,2.26,,16,6.37,2.22,Salivary cortisol,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Kotozaki 2014,22,32.36,3.92,,22,30.95,3.3,Self-esteem,Therapy,Before/ after gardening,Non-patients
+Wood et al. (in press),136,32.8,3.9,,133,31.4,4.2,Self-esteem,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Kotozaki 2014,22,56.95,9.41,,22,49.09,12.84,Sense of community,Therapy,Before/ after gardening,Non-patients
+Kim et al. 2012,12,36,9.7,,12,18.5,9.7,Sociability,Therapy,Gardeners/ non-gardeners,Patients
+van den Berg et al. 2010,121,7.23,3.04,,63,6.89,2.99,Social contacts,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Gonzalez et al. 2011,46,13,2.3,,46,14.1,2.3,Stress,Therapy,Before/ after gardening,Patients
+Kam and Siu 2010,10,-6,5.33,,12,-0.5,6.79,Stress,Therapy,Gardeners/ non-gardeners,Patients
+van den Berg et al. 2010,121,2.53,1.15,,63,2.77,1.13,Stress,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Hayashi et al. 2008,11,7.3,2.16,,11,10.2,2.92,Tension,Non-therapy,Before/ after gardening,Non-patients
+Wichrowski et al. 2005,59,4.86,5.81,,59,9.02,6.51,Tension,Therapy,Before/ after gardening,Patients
+Wood et al. (in press),136,33.4,3.2,,133,34.1,4.1,Tension,Non-therapy,Gardeners/ non-gardeners,Non-patients
+Hayashi et al. 2008,11,25.4,3.36,,11,26.4,2.23,Vigor,Non-therapy,Before/ after gardening,Non-patients
+Wichrowski et al. 2005,59,18,6.11,,59,15.1,5.65,Vigor,Therapy,Before/ after gardening,Patients
+Wood et al. (in press),136,41.6,5.9,,133,38.1,6.7,Vigor,Non-therapy,Gardeners/ non-gardeners,Non-patients
